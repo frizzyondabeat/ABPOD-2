@@ -1,4 +1,5 @@
 # ABPOD-2
+![high_quality_render](https://github.com/frizzyondabeat/ABPOD-2/assets/95314999/4833c7c0-1158-4f99-a9e4-db86473a244c)
 The project consists of constructing an autonomous self-driving shuttle by incorporating the Udacity Self-Driving Car technology and effectively controlling the ABPOD-2. The repository for this project will undergo continuous updates as the performance of both the ABPOD-2 and the simulation model improves.
 
 # Setup
