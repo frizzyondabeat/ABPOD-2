@@ -1,0 +1,4 @@
+pyFirmata
+opencv-python
+l298n-pyfirmata
+pandas
